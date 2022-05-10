@@ -1,0 +1,1466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-12-10">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="size" type="long" />
+      <attribute id="1" title="Citations" type="long" />
+      <attribute id="2" title="Famille" type="long" />
+      <attribute id="3" title="category" type="string" />
+      <attribute id="4" title="NbBrevets" type="long" />
+      <attribute id="5" title="IPC11-range" type="long" />
+      <attribute id="6" title="IPC7-range" type="long" />
+      <attribute id="7" title="IPC4-range" type="long" />
+      <attribute id="8" title="IPCDiversity" type="long" />
+      <attribute id="9" title="IPCForce" type="long" />
+    </attributes>
+    <nodes>
+      <node id="JIANGSU POLICE INST" label="JIANGSU POLICE INST">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEIJING JINGWEI BLUEPRINT TECH CO LTD" label="BEIJING JINGWEI BLUEPRINT TECH CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="SINOPEC PETROLEUM EXPLORATION &amp; PROD RES INST" label="SINOPEC PETROLEUM EXPLORATION &amp; PROD RES INST">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="6" />
+        </attvalues>
+      </node>
+      <node id="CHINA PETROLEUM &amp; CHEM CORP" label="CHINA PETROLEUM &amp; CHEM CORP">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="6" />
+        </attvalues>
+      </node>
+      <node id="BALUSAMY BALAMURUGAN PROF" label="BALUSAMY BALAMURUGAN PROF">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="KUMAR SUNIL DR" label="KUMAR SUNIL DR">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="KUMAR ARVIND DR" label="KUMAR ARVIND DR">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="N GAYATHRI MS" label="N GAYATHRI MS">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="SHARMA MEENAKSHI PROF" label="SHARMA MEENAKSHI PROF">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="MITSUBISHI HEAVY IND LTD" label="MITSUBISHI HEAVY IND LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="UNIV TSINGHUA" label="UNIV TSINGHUA">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="5" />
+        </attvalues>
+      </node>
+      <node id="TONGFANG CNKI CHINA NATIONAL KNOWLEDGE INFRASTRUCTURE DIGITAL PUBLICATION TECH CO LTD" label="TONGFANG CNKI CHINA NATIONAL KNOWLEDGE INFRASTRUCTURE DIGITAL PUBLICATION TECH CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="TONGFANG KNOWLEDGE NETWORK TECH CO LTD BEIJING" label="TONGFANG KNOWLEDGE NETWORK TECH CO LTD BEIJING">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="CNPC CHUANQING DRILLING ENG CO" label="CNPC CHUANQING DRILLING ENG CO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="CHANGQING DOWNHOLE TECHNOLOGY OPERATION CO OF CNPC CHUANQING DRILLING ENG CO LTD" label="CHANGQING DOWNHOLE TECHNOLOGY OPERATION CO OF CNPC CHUANQING DRILLING ENG CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="GUANGDONG MIDEA REFRIGERATION EQUIPMENT CO LTD" label="GUANGDONG MIDEA REFRIGERATION EQUIPMENT CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="9" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="9" />
+          <attvalue for="9" value="18" />
+        </attvalues>
+      </node>
+      <node id="MIDEA GROUP CO LTD" label="MIDEA GROUP CO LTD">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="10" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="10" />
+          <attvalue for="9" value="19" />
+        </attvalues>
+      </node>
+      <node id="ARMY ENG UNIV CHINA PLA" label="ARMY ENG UNIV CHINA PLA">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="NANJING JUNYUANKE EXPLOSION ENGINEERING TECH CO LTD" label="NANJING JUNYUANKE EXPLOSION ENGINEERING TECH CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="YUNNAN OBSERVATORIES CHINESE ACAD OF SCIENCES" label="YUNNAN OBSERVATORIES CHINESE ACAD OF SCIENCES">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="KUNMING JINGHUA OPTICAL CO LTD" label="KUNMING JINGHUA OPTICAL CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="HON HAI PREC IND CO LTD" label="HON HAI PREC IND CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="31" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="FUTAIHUA IND SHENZHEN CO LTD" label="FUTAIHUA IND SHENZHEN CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="WUHU MIDEA KITCHEN &amp; BATH APPLIANCES MFG CO LTD" label="WUHU MIDEA KITCHEN &amp; BATH APPLIANCES MFG CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="TOYOCHEM CO LTD" label="TOYOCHEM CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="15" />
+        </attvalues>
+      </node>
+      <node id="TOYO MORTON LTD" label="TOYO MORTON LTD">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="15" />
+        </attvalues>
+      </node>
+      <node id="TOYO INK SC HOLDINGS CO LTD" label="TOYO INK SC HOLDINGS CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="18" />
+        </attvalues>
+      </node>
+      <node id="DONGGUAN YULONG COMM TECH CO" label="DONGGUAN YULONG COMM TECH CO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="YULONG COMPUTER TELECOMM TECH" label="YULONG COMPUTER TELECOMM TECH">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="STATE GRID CORP CHINA" label="STATE GRID CORP CHINA">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="YINGKOU POWER SUPPLY CO LIAONING ELECTRIC POWER CO LTD" label="YINGKOU POWER SUPPLY CO LIAONING ELECTRIC POWER CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="HAIER GROUP CO LTD" label="HAIER GROUP CO LTD">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="QINDAO HAIER WASHING MACHINE" label="QINDAO HAIER WASHING MACHINE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="CHINA TOBACCO HUBEI IND LLC" label="CHINA TOBACCO HUBEI IND LLC">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="WUHAN HUANGHELOU SCIENCE PARK CO LTD" label="WUHAN HUANGHELOU SCIENCE PARK CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="CHENGDU TAITIESI SOLAR TECHNOLOGY CO LTD" label="CHENGDU TAITIESI SOLAR TECHNOLOGY CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="HEBEI DONGXU INVEST GROUP CO" label="HEBEI DONGXU INVEST GROUP CO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="MURATA MASAMI" label="MURATA MASAMI">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="KOBAYASHI MIHOKO" label="KOBAYASHI MIHOKO">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="KOBAYASHI KOJI" label="KOBAYASHI KOJI">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="LYSTEEL CO LTD" label="LYSTEEL CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNIV HUNAN HUMANITIES SCI &amp; TECH" label="UNIV HUNAN HUMANITIES SCI &amp; TECH">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="317" />
+          <attvalue for="2" value="390" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="390" />
+          <attvalue for="5" value="553" />
+          <attvalue for="6" value="374" />
+          <attvalue for="7" value="169" />
+          <attvalue for="8" value="553" />
+          <attvalue for="9" value="788" />
+        </attvalues>
+      </node>
+      <node id="TIBET NEW ENERGY RES AND DEMONSTRATION CENTER" label="TIBET NEW ENERGY RES AND DEMONSTRATION CENTER">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="HUMANITAS MIRASOLE SPA" label="HUMANITAS MIRASOLE SPA">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="113" />
+          <attvalue for="2" value="68" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="68" />
+          <attvalue for="5" value="33" />
+          <attvalue for="6" value="23" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="33" />
+          <attvalue for="9" value="108" />
+        </attvalues>
+      </node>
+      <node id="HUMANITAS UNIV" label="HUMANITAS UNIV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="12" />
+          <attvalue for="6" value="7" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="12" />
+          <attvalue for="9" value="20" />
+        </attvalues>
+      </node>
+      <node id="UNIV CENTRAL SOUTH" label="UNIV CENTRAL SOUTH">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="10" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="XIAOXIANG VOCATIONAL COLLEGE" label="XIAOXIANG VOCATIONAL COLLEGE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="LIANYUAN ZHANYU MACHINERY EQUIPMENT CO LTD" label="LIANYUAN ZHANYU MACHINERY EQUIPMENT CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCES AND LIBERAL ARTS" label="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCES AND LIBERAL ARTS">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="20" />
+          <attvalue for="6" value="17" />
+          <attvalue for="7" value="14" />
+          <attvalue for="8" value="20" />
+          <attvalue for="9" value="21" />
+        </attvalues>
+      </node>
+      <node id="UNIV GUANGXI" label="UNIV GUANGXI">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="THE 7TH HOSPITAL OF SUN YAT SEN UNIV SHENZHEN" label="THE 7TH HOSPITAL OF SUN YAT SEN UNIV SHENZHEN">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="4" />
+        </attvalues>
+      </node>
+      <node id="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT SEN UNIV" label="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT SEN UNIV">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="5" />
+        </attvalues>
+      </node>
+      <node id="1ST AFFILIATED HOSPITAL SUN YAT SEN UNIV" label="1ST AFFILIATED HOSPITAL SUN YAT SEN UNIV">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="3" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="5" />
+        </attvalues>
+      </node>
+      <node id="GUANGDONG PROVINCIAL HOSPITAL OF TRADITIONAL CHINESE MEDICINE SECOND AFFILIATED HOSPITAL OF GUANGZHO" label="GUANGDONG PROVINCIAL HOSPITAL OF TRADITIONAL CHINESE MEDICINE SECOND AFFILIATED HOSPITAL OF GUANGZHO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="4" />
+        </attvalues>
+      </node>
+      <node id="GUANGDONG HOSPITAL OF TRADITIONAL CHINESE MEDICINE THE SECOND AFFILIATED HOSPITAL OF GUANGZHOU MEDIC" label="GUANGDONG HOSPITAL OF TRADITIONAL CHINESE MEDICINE THE SECOND AFFILIATED HOSPITAL OF GUANGZHOU MEDIC">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="THE SEVENTH AFFILIATED HOSPITAL OF SUN YAT SEN UNIV" label="THE SEVENTH AFFILIATED HOSPITAL OF SUN YAT SEN UNIV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="HUNAN XINHUOZHUAN ENVIRONMENTAL PROTECTION TECH CO LTD" label="HUNAN XINHUOZHUAN ENVIRONMENTAL PROTECTION TECH CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="11" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="11" />
+          <attvalue for="9" value="26" />
+        </attvalues>
+      </node>
+      <node id="UNIV GUIZHOU FINANCE &amp; ECONOMICS" label="UNIV GUIZHOU FINANCE &amp; ECONOMICS">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="CONSIGLIO NAZIONALE RICERCHE" label="CONSIGLIO NAZIONALE RICERCHE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNIV DEGLI STUDI MILANO" label="UNIV DEGLI STUDI MILANO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="10" />
+        </attvalues>
+      </node>
+      <node id="NANNING SANSHU AUTO PARTS MFG CO LTD" label="NANNING SANSHU AUTO PARTS MFG CO LTD">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="SHENZHEN XINLILONG ELECTRONIC TECH CO LTD" label="SHENZHEN XINLILONG ELECTRONIC TECH CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNIV HUNAN" label="UNIV HUNAN">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="11" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="11" />
+          <attvalue for="9" value="11" />
+        </attvalues>
+      </node>
+      <node id="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCE &amp; LIBERAL ARTS" label="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCE &amp; LIBERAL ARTS">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="ZHEJIANG HUMANITIES LANDSCAPE INC" label="ZHEJIANG HUMANITIES LANDSCAPE INC">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="7" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="4" />
+        </attvalues>
+      </node>
+      <node id="RES INST SUBTROPICAL FORESTRY CHINESE ACADEMY FORESTRY" label="RES INST SUBTROPICAL FORESTRY CHINESE ACADEMY FORESTRY">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="7" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="4" />
+        </attvalues>
+      </node>
+      <node id="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT-SEN UNIV" label="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT-SEN UNIV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNIV HUNAN TECHNOLOGY" label="UNIV HUNAN TECHNOLOGY">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="INST GEOCHEMISTRY CAS" label="INST GEOCHEMISTRY CAS">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="HUNAN XIAOLAOYE FOOD CO LTD" label="HUNAN XIAOLAOYE FOOD CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="CHONGQING COMMUNICATION COLLEGE OF THE CHINESE PEOPLE'S LIBERATION ARMY" label="CHONGQING COMMUNICATION COLLEGE OF THE CHINESE PEOPLE'S LIBERATION ARMY">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="CHONGQING COLLEGE HUMANITIES SCIENCE AND TECH" label="CHONGQING COLLEGE HUMANITIES SCIENCE AND TECH">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNIV HUNAN AGRICULTURAL" label="UNIV HUNAN AGRICULTURAL">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="9" />
+          <attvalue for="6" value="13" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="9" />
+          <attvalue for="9" value="13" />
+        </attvalues>
+      </node>
+      <node id="HUNAN AGRICULTURAL BIOTECHNOLOGY RES CENTER" label="HUNAN AGRICULTURAL BIOTECHNOLOGY RES CENTER">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="HUNAN AGRICULTURAL BIOTECHNOLOGY RES CT" label="HUNAN AGRICULTURAL BIOTECHNOLOGY RES CT">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="5" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="4" />
+        </attvalues>
+      </node>
+      <node id="ISTITUTO ONCOLOGICO VENETO IRCCS" label="ISTITUTO ONCOLOGICO VENETO IRCCS">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="4" />
+        </attvalues>
+      </node>
+      <node id="AZIENDA OSPEDALIERA OSPEDALI RIUNITI DI BERGAMO" label="AZIENDA OSPEDALIERA OSPEDALI RIUNITI DI BERGAMO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="NOVARTIS VACCINES &amp; DIAGNOSTIC" label="NOVARTIS VACCINES &amp; DIAGNOSTIC">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="3" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="5" />
+        </attvalues>
+      </node>
+      <node id="SINOPEC ENGINEERING INC" label="SINOPEC ENGINEERING INC">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="CHINA PETROCHEMICAL CORP" label="CHINA PETROCHEMICAL CORP">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="HUNAN INST OF HUMANITIES SCIENCE AND TECHNOLOGY" label="HUNAN INST OF HUMANITIES SCIENCE AND TECHNOLOGY">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="13" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="13" />
+          <attvalue for="5" value="16" />
+          <attvalue for="6" value="16" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="16" />
+          <attvalue for="9" value="18" />
+        </attvalues>
+      </node>
+      <node id="KONNO KENICHI" label="KONNO KENICHI">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="TAKADA KAZUHIKO" label="TAKADA KAZUHIKO">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="HUNAN INST OF HUMANLTIES SCIEN" label="HUNAN INST OF HUMANLTIES SCIEN">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="QINGDAO HAIER TELECOMM CO LTD" label="QINGDAO HAIER TELECOMM CO LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="SOLOVIOVA YEVHENIIA VOLODYMYRIVNA" label="SOLOVIOVA YEVHENIIA VOLODYMYRIVNA">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="VERESHCHAHIN VIACHESLAV LEONIDOVYCH" label="VERESHCHAHIN VIACHESLAV LEONIDOVYCH">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="BABOV KOSTIANTYN DMYTROVYCH" label="BABOV KOSTIANTYN DMYTROVYCH">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="DYNAMIC MODELS LABORATORY LTD" label="DYNAMIC MODELS LABORATORY LTD">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0" />
+        </attvalues>
+      </node>
+      <node id="ADMIRAL MAKAROV SHIPBUILDING N" label="ADMIRAL MAKAROV SHIPBUILDING N">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2" />
+        </attvalues>
+      </node>
+      <node id="PETRO MOHYLA MYKOLAIV STATE HU" label="PETRO MOHYLA MYKOLAIV STATE HU">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="3" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="ISTITUTO DI RICERCHE CHIIMICHE" label="ISTITUTO DI RICERCHE CHIIMICHE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1" />
+        </attvalues>
+      </node>
+      <node id="FOND MICHELE RODRIGUEZ ISTITUT" label="FOND MICHELE RODRIGUEZ ISTITUT">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="HARELL AVIKAM" label="HARELL AVIKAM">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="15" />
+        </attvalues>
+      </node>
+      <node id="ISRAEL HUMANITARIAN FOUNDATION" label="ISRAEL HUMANITARIAN FOUNDATION">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="15" />
+        </attvalues>
+      </node>
+      <node id="JADE HOLDING INC B V I" label="JADE HOLDING INC B V I">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="15" />
+        </attvalues>
+      </node>
+      <node id="JADE HOLDING INC" label="JADE HOLDING INC">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+      <node id="HAREL AVIKAM" label="HAREL AVIKAM">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="Applicant" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="JIANGSU POLICE INST" target="BEIJING JINGWEI BLUEPRINT TECH CO LTD" />
+      <edge id="1" source="SINOPEC PETROLEUM EXPLORATION &amp; PROD RES INST" target="CHINA PETROLEUM &amp; CHEM CORP" />
+      <edge id="2" source="BALUSAMY BALAMURUGAN PROF" target="KUMAR SUNIL DR" />
+      <edge id="3" source="KUMAR SUNIL DR" target="KUMAR ARVIND DR" />
+      <edge id="4" source="KUMAR ARVIND DR" target="N GAYATHRI MS" />
+      <edge id="5" source="N GAYATHRI MS" target="SHARMA MEENAKSHI PROF" />
+      <edge id="6" source="MITSUBISHI HEAVY IND LTD" target="UNIV TSINGHUA" />
+      <edge id="7" source="TONGFANG CNKI CHINA NATIONAL KNOWLEDGE INFRASTRUCTURE DIGITAL PUBLICATION TECH CO LTD" target="TONGFANG KNOWLEDGE NETWORK TECH CO LTD BEIJING" />
+      <edge id="8" source="CNPC CHUANQING DRILLING ENG CO" target="CHANGQING DOWNHOLE TECHNOLOGY OPERATION CO OF CNPC CHUANQING DRILLING ENG CO LTD" />
+      <edge id="9" source="GUANGDONG MIDEA REFRIGERATION EQUIPMENT CO LTD" target="MIDEA GROUP CO LTD" />
+      <edge id="10" source="MIDEA GROUP CO LTD" target="WUHU MIDEA KITCHEN &amp; BATH APPLIANCES MFG CO LTD" />
+      <edge id="11" source="ARMY ENG UNIV CHINA PLA" target="NANJING JUNYUANKE EXPLOSION ENGINEERING TECH CO LTD" />
+      <edge id="12" source="YUNNAN OBSERVATORIES CHINESE ACAD OF SCIENCES" target="KUNMING JINGHUA OPTICAL CO LTD" />
+      <edge id="13" source="HON HAI PREC IND CO LTD" target="FUTAIHUA IND SHENZHEN CO LTD" />
+      <edge id="14" source="TOYOCHEM CO LTD" target="TOYO MORTON LTD" />
+      <edge id="15" source="TOYO MORTON LTD" target="TOYO INK SC HOLDINGS CO LTD" />
+      <edge id="16" source="DONGGUAN YULONG COMM TECH CO" target="YULONG COMPUTER TELECOMM TECH" />
+      <edge id="17" source="STATE GRID CORP CHINA" target="YINGKOU POWER SUPPLY CO LIAONING ELECTRIC POWER CO LTD" />
+      <edge id="18" source="HAIER GROUP CO LTD" target="QINDAO HAIER WASHING MACHINE" />
+      <edge id="19" source="HAIER GROUP CO LTD" target="QINGDAO HAIER TELECOMM CO LTD" />
+      <edge id="20" source="CHINA TOBACCO HUBEI IND LLC" target="WUHAN HUANGHELOU SCIENCE PARK CO LTD" />
+      <edge id="21" source="CHENGDU TAITIESI SOLAR TECHNOLOGY CO LTD" target="HEBEI DONGXU INVEST GROUP CO" />
+      <edge id="22" source="MURATA MASAMI" target="KOBAYASHI MIHOKO" />
+      <edge id="23" source="KOBAYASHI MIHOKO" target="KOBAYASHI KOJI" />
+      <edge id="24" source="LYSTEEL CO LTD" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="25" source="UNIV HUNAN HUMANITIES SCI &amp; TECH" target="XIAOXIANG VOCATIONAL COLLEGE" />
+      <edge id="26" source="UNIV HUNAN HUMANITIES SCI &amp; TECH" target="LIANYUAN ZHANYU MACHINERY EQUIPMENT CO LTD" />
+      <edge id="27" source="UNIV HUNAN HUMANITIES SCI &amp; TECH" target="INST GEOCHEMISTRY CAS" />
+      <edge id="28" source="UNIV HUNAN HUMANITIES SCI &amp; TECH" target="HUNAN XIAOLAOYE FOOD CO LTD" />
+      <edge id="29" source="UNIV HUNAN HUMANITIES SCI &amp; TECH" target="HUNAN AGRICULTURAL BIOTECHNOLOGY RES CENTER" />
+      <edge id="30" source="TIBET NEW ENERGY RES AND DEMONSTRATION CENTER" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="31" source="HUMANITAS MIRASOLE SPA" target="HUMANITAS UNIV" />
+      <edge id="32" source="HUMANITAS MIRASOLE SPA" target="CONSIGLIO NAZIONALE RICERCHE" />
+      <edge id="33" source="HUMANITAS MIRASOLE SPA" target="UNIV DEGLI STUDI MILANO" />
+      <edge id="34" source="HUMANITAS MIRASOLE SPA" target="AZIENDA OSPEDALIERA OSPEDALI RIUNITI DI BERGAMO" />
+      <edge id="35" source="HUMANITAS MIRASOLE SPA" target="NOVARTIS VACCINES &amp; DIAGNOSTIC" />
+      <edge id="36" source="HUMANITAS MIRASOLE SPA" target="ISTITUTO DI RICERCHE CHIIMICHE" />
+      <edge id="37" source="HUMANITAS MIRASOLE SPA" target="FOND MICHELE RODRIGUEZ ISTITUT" />
+      <edge id="38" source="UNIV CENTRAL SOUTH" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="39" source="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCES AND LIBERAL ARTS" target="UNIV GUANGXI" />
+      <edge id="40" source="THE 7TH HOSPITAL OF SUN YAT SEN UNIV SHENZHEN" target="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT SEN UNIV" />
+      <edge id="41" source="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT SEN UNIV" target="1ST AFFILIATED HOSPITAL SUN YAT SEN UNIV" />
+      <edge id="42" source="1ST AFFILIATED HOSPITAL SUN YAT SEN UNIV" target="GUANGDONG PROVINCIAL HOSPITAL OF TRADITIONAL CHINESE MEDICINE SECOND AFFILIATED HOSPITAL OF GUANGZHO" />
+      <edge id="43" source="1ST AFFILIATED HOSPITAL SUN YAT SEN UNIV" target="THE SEVENTH AFFILIATED HOSPITAL OF SUN YAT SEN UNIV" />
+      <edge id="44" source="GUANGDONG HOSPITAL OF TRADITIONAL CHINESE MEDICINE THE SECOND AFFILIATED HOSPITAL OF GUANGZHOU MEDIC" target="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT SEN UNIV" />
+      <edge id="45" source="HUNAN XINHUOZHUAN ENVIRONMENTAL PROTECTION TECH CO LTD" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="46" source="UNIV GUIZHOU FINANCE &amp; ECONOMICS" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="47" source="NANNING SANSHU AUTO PARTS MFG CO LTD" target="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCES AND LIBERAL ARTS" />
+      <edge id="48" source="NANNING SANSHU AUTO PARTS MFG CO LTD" target="GUANGXI UNIV XINGJIAN COLLEGE OF SCIENCE &amp; LIBERAL ARTS" />
+      <edge id="49" source="SHENZHEN XINLILONG ELECTRONIC TECH CO LTD" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="50" source="UNIV HUNAN" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="51" source="ZHEJIANG HUMANITIES LANDSCAPE INC" target="RES INST SUBTROPICAL FORESTRY CHINESE ACADEMY FORESTRY" />
+      <edge id="52" source="GUANGDONG XINHUA HUMANITIES AND HEALTH SCIENCES RESEARCH INSTITUTE OF SUN YAT-SEN UNIV" target="1ST AFFILIATED HOSPITAL SUN YAT SEN UNIV" />
+      <edge id="53" source="UNIV HUNAN TECHNOLOGY" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="54" source="CHONGQING COMMUNICATION COLLEGE OF THE CHINESE PEOPLE'S LIBERATION ARMY" target="CHONGQING COLLEGE HUMANITIES SCIENCE AND TECH" />
+      <edge id="55" source="UNIV HUNAN AGRICULTURAL" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="56" source="UNIV HUNAN AGRICULTURAL" target="HUNAN INST OF HUMANITIES SCIENCE AND TECHNOLOGY" />
+      <edge id="57" source="UNIV HUNAN AGRICULTURAL" target="HUNAN INST OF HUMANLTIES SCIEN" />
+      <edge id="58" source="HUNAN AGRICULTURAL BIOTECHNOLOGY RES CT" target="UNIV HUNAN HUMANITIES SCI &amp; TECH" />
+      <edge id="59" source="ISTITUTO ONCOLOGICO VENETO IRCCS" target="HUMANITAS MIRASOLE SPA" />
+      <edge id="60" source="SINOPEC ENGINEERING INC" target="CHINA PETROCHEMICAL CORP" />
+      <edge id="61" source="KONNO KENICHI" target="TAKADA KAZUHIKO" />
+      <edge id="62" source="SOLOVIOVA YEVHENIIA VOLODYMYRIVNA" target="VERESHCHAHIN VIACHESLAV LEONIDOVYCH" />
+      <edge id="63" source="VERESHCHAHIN VIACHESLAV LEONIDOVYCH" target="BABOV KOSTIANTYN DMYTROVYCH" />
+      <edge id="64" source="BABOV KOSTIANTYN DMYTROVYCH" target="DYNAMIC MODELS LABORATORY LTD" />
+      <edge id="65" source="ADMIRAL MAKAROV SHIPBUILDING N" target="PETRO MOHYLA MYKOLAIV STATE HU" />
+      <edge id="66" source="HARELL AVIKAM" target="ISRAEL HUMANITARIAN FOUNDATION" />
+      <edge id="67" source="ISRAEL HUMANITARIAN FOUNDATION" target="JADE HOLDING INC B V I" />
+      <edge id="68" source="ISRAEL HUMANITARIAN FOUNDATION" target="HAREL AVIKAM" />
+      <edge id="69" source="JADE HOLDING INC" target="ISRAEL HUMANITARIAN FOUNDATION" />
+    </edges>
+  </graph>
+</gexf>
