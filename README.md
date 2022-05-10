@@ -1,4 +1,4 @@
-# DATA discussed in HN revue
+# Données sources discutées (en partie) dans article de revue [https://journals.openedition.org/revuehn/](Humanités Numériques) vol 5. 
  Données sources pour les traitements par les logiciels IRAMuTeQ, Gephi, Freeplane et Carrot2 produites par le logiciel [https://github.com/Patent2net/P2N-Docker](Patent2Net (P2N)) à partir de la base mondiale de données brevets de l'office européen des brevets via l'API [https://worldwide.espacenet.com/](espacenet). Les données ont été capturées en décembre 2021. 
  
  La correspondance est la suivante :
